@@ -1,5 +1,5 @@
 {
-  "name": "@palacms/css",
+  "name": "pala-css",
   "version": "0.0.1",
   "description": "Official CSS library for PalaCMS blocks - unified design system and utilities for CDN usage",
   "main": "components.css",

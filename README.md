@@ -7,13 +7,13 @@ Official CSS library for PalaCMS blocks - unified design system and utilities.
 Import directly via CDN in your PalaCMS blocks:
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@palacms/css@latest/components.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pala-css@latest/components.css">
 ```
 
 Or use a specific version:
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@palacms/css@0.0.1/components.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pala-css@0.0.1/components.css">
 ```
 
 ## Components
